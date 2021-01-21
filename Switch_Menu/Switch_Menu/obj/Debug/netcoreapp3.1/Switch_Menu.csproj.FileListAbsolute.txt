@@ -1,0 +1,24 @@
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.csprojAssemblyReference.cache
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.AssemblyInfo.cs
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.deps.json
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.runtimeconfig.json
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.runtimeconfig.dev.json
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.dll
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.pdb
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.dll
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.pdb
+/Users/thomas/Desktop/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.genruntimeconfig.cache
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.deps.json
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.runtimeconfig.json
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.runtimeconfig.dev.json
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.dll
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/bin/Debug/netcoreapp3.1/Switch_Menu.pdb
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.csprojAssemblyReference.cache
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.AssemblyInfo.cs
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.dll
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.pdb
+/Users/thomas/Desktop/Desktop - Thomas’s MacBook Air/C#/Switch_Menu/Switch_Menu/obj/Debug/netcoreapp3.1/Switch_Menu.genruntimeconfig.cache
